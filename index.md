@@ -7,7 +7,7 @@
 Wildfires across western North America have increased in number and size over the past three decades, and this trend will continue in response to further warming. As a consequence, the wildland–urban interface is projected to experience substantially higher risk of climate-driven fires in the coming decades. Although many plants, animals, and ecosystem services benefit from fire, it is unknown how ecosystems will respond to increased burning and warming. Policy and management have focused primarily on specified resilience approaches aimed at resistance to wildfire and restoration of areas burned by wildfire through fire suppression and fuels management. These strategies are inadequate to address a new era of western wildfires. In contrast, policies that promote adaptive resilience to wildfire, by which people and ecosystems adjust and reorganize in response to changing fire regimes to reduce future vulnerability, are needed.
 
 <div align=center>
-< img width="800" src="cp255/5.png"/>
+<img width="800" src="cp255/5.png"/>
 </div>
 
 ### Our intention
