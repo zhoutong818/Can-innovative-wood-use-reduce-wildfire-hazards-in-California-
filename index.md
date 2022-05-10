@@ -132,8 +132,6 @@ Biopower, currently the most common use of forest residues in California, has a 
 
 
 
-
-
 ## REFERENCE
 https://data.ca.gov/dataset/cal-fire-timber-harvesting-plans-all-ta83
 https://data.ca.gov/dataset/cal-fire-forest-districts-ta83
