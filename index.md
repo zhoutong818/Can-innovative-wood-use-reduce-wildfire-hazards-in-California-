@@ -129,7 +129,7 @@ ref(https://www.pnas.org/doi/full/10.1073/pnas.2019073118)
   
     
     
-## WOOD PRODUCTS ACCESSIBILITY
+### Wood products accessibility
 
 Sawmills and biomass plants are the primary wood intake facilities that can effectively recycle wood residues and generate useful wood products. Thus, we aim to investigate the accessibility of currently operational wood facilities to major cities in California. To reach this goal, we need to figure out the distance between the major city to its closest wood facility, calculate the transportation time, and analyze if the major cities' demands would be fulfilled by their adjacent facilities. 
 
