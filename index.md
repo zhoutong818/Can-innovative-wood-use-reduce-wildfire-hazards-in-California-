@@ -57,12 +57,12 @@ For any fire to occur, there are three elements needed—heat, fuel, and oxygen:
 **Oxygen.**California’s infamous Santa Ana winds, dubbed “Diablo winds” by some locals, produce gusts averaging 45-50 mph, with record gusts clocked at over 160 mph. These winds fan the flames and spread embers, leading to truly devastating wildfires.
 
 California’s dry climate, abundant winds, and dried vegetation provide prime conditions for a wildfire—and it only takes a single ember to ignite and destroy hundreds of thousands of acres. Here’s a closer look at the top three heat sources that are the most common cause of wildfires:
-- Burning Debris
+- Burning Debris  
 Escaped embers from burning debris is one of the most common causes of wildfires. On a particularly windy day, escaped embers can carry for miles without extinguishing.
 In many parts of the United States, burning dead vegetation is illegal. However, in some states, such as California, it is permitted during certain times of the year. When burning vegetation and other debris, stay mindful and pay close attention to weather conditions. 
-- Unattended Campfires
+- Unattended Campfires  
 We typically associate campfires with beautiful memories, like s’mores and stories with loved ones. However, despite a campfire’s summertime appeal, they are one of the leading causes of wildfires. The Ham Lake Fire, which destroyed 75,000 acres and hundreds of properties, is just one example of the devastation that a single campfire can cause. If you plan on camping this year, always remember to practice proper fire safety. 
-- Electrical Power
+- Electrical Power  
 Fallen power lines rank among the top causes of wildfires, ranking as the third most common cause of wildfires in California. In some cases, it only takes a branch falling from a tree and striking a power line to create sparks. Nearly 10% of wildfires result from fallen power lines, which equates to roughly 400 fires per year in California.
 
 # Header 1
