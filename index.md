@@ -1,5 +1,7 @@
 # Can innovative wood use reduce wildfire hazards in California?
 
+<br />
+<br />
 
 <div align=center>
 <img width="840" src="cp255/5.png"/>
@@ -140,7 +142,6 @@ For forest residue products, carbon benefits vary widely.
 Biopower, currently the most common use of forest residues in California, has a low carbon benefit (0.11 tC/tC) relative to more innovative technologies, primarily because of the absence of CO2 storage and the displacement of relatively clean electricity. Conversely, technologies with a large fraction of carbon storage have the greatest benefits. Biopower with carbon capture and storage (CCS) has a comparatively high carbon benefit (0.81 tC/tC), because a large portion of the emitted CO2 is captured and stored. Hydrogen with CCS, glue-laminated timber (GluLam), and OSB have the highest carbon benefits (1.18 to 1.65 tC/tC) of any of the studied products because of both high substitution benefits and carbon storage in wood products or via CCS.
 ref(https://www.pnas.org/doi/full/10.1073/pnas.2019073118)  
   
- <br />
  <br />
     
 ### Wood products accessibility
