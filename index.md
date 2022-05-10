@@ -10,9 +10,19 @@ Wildfires across western North America have increased in number and size over th
 Natural carbon sinks can help mitigate climate change, but climate risks—like increased wildfire—threaten forests’ capacity to store carbon. California has recently set ambitious forest management goals to reduce these risks. However, management can incur carbon losses because wood residues are often burnt or left to decay. This study applies a systems approach to assess climate change mitigation potential and wildfire outcomes across forest management scenarios and several wood products. Innovative use of wood residues supports extensive wildfire hazard reduction and maximizes carbon benefits. Long-lived products that displace carbon-intensive alternatives have the greatest benefits, including wood building products. Our results suggest a low-cost pathway to reduce carbon emissions and support climate adaptation in temperate forests. 
 
 ### Research framework
-What caused the wildfire in California?
-How wildfire related to forest management?
-How to better use wood residues to reduce wildfire hazard?
+##### What caused the wildfire in California?
+##### How wildfire related to forest management?
+##### How to better use wood residues to reduce wildfire hazard?
+
+
+## BACKGROUND 
+### Conclusion of background
+	Natural carbon sinks can help buffer climate change, but climatic hazards, such as increasing wildfire, put forests' ability to store carbon in jeopardy. 
+	Management can incur carbon losses because wood residues are often burnt or left to decay.
+	Can innovative use of wood residues support extensive wildfire hazard reduction and maximizes carbon benefits?
+
+### Wildfire incidents
+In February 2022 researchers described the drought in the southwest of the USA, including California, in the years 2000 - 2021 as the most severe in 1,200 years. Because of further global warming, it is projected that there will be an increase in risk due to climate-driven wildfires in the coming decades. Because of warming, frequent droughts, and the legacy of past land management and expansion of residential areas, both people and the ecology are more vulnerable to wildfires.
 
 # Header 1
 ## Header 2
