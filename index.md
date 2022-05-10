@@ -10,9 +10,9 @@ Wildfires across western North America have increased in number and size over th
 Natural carbon sinks can help mitigate climate change, but climate risks—like increased wildfire—threaten forests’ capacity to store carbon. California has recently set ambitious forest management goals to reduce these risks. However, management can incur carbon losses because wood residues are often burnt or left to decay. This study applies a systems approach to assess climate change mitigation potential and wildfire outcomes across forest management scenarios and several wood products. Innovative use of wood residues supports extensive wildfire hazard reduction and maximizes carbon benefits. Long-lived products that displace carbon-intensive alternatives have the greatest benefits, including wood building products. Our results suggest a low-cost pathway to reduce carbon emissions and support climate adaptation in temperate forests. 
 
 ### Research framework
--What caused the wildfire in California?
--How wildfire related to forest management?
--How to better use wood residues to reduce wildfire hazard?
+- What caused the wildfire in California?
+- How wildfire related to forest management?
+- How to better use wood residues to reduce wildfire hazard?
 
 
 ## BACKGROUND 
