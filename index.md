@@ -17,9 +17,7 @@ Natural carbon sinks can help mitigate climate change, but climate risks—like 
 
 ## BACKGROUND 
 ### Conclusion of background
-	Natural carbon sinks can help buffer climate change, but climatic hazards, such as increasing wildfire, put forests' ability to store carbon in jeopardy. 
-	Management can incur carbon losses because wood residues are often burnt or left to decay.
-	Can innovative use of wood residues support extensive wildfire hazard reduction and maximizes carbon benefits?
+Natural carbon sinks can help buffer climate change, but climatic hazards, such as increasing wildfire, put forests' ability to store carbon in jeopardy.   Management can incur carbon losses because wood residues are often burnt or left to decay.  Can innovative use of wood residues support extensive wildfire hazard reduction and maximizes carbon benefits?
 
 ### Wildfire incidents
 In February 2022 researchers described the drought in the southwest of the USA, including California, in the years 2000 - 2021 as the most severe in 1,200 years. Because of further global warming, it is projected that there will be an increase in risk due to climate-driven wildfires in the coming decades. Because of warming, frequent droughts, and the legacy of past land management and expansion of residential areas, both people and the ecology are more vulnerable to wildfires.
