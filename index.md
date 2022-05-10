@@ -32,7 +32,9 @@ The graph is generated from California wildfire dataset with each point represen
 
 The graph displayed the comparison between the average acres covered by each incident of a year and the total amount of incidents each year. In the recent five years, the data had fluctuated more significantly which indicates that wildfire is happening more frequently and expanding to larger area.
 
-
+  
+  
+  
 ## CAUSE OF WILDFIRE
 ### Overall
 California’s dry climate provides prime conditions for a wildfire, and unfortunately, it doesn’t take much to spark a fire that can devastate an entire area.
@@ -51,9 +53,9 @@ After categorizing the fires according to natural and non-natural factors, we fo
 
 ### Human factors
 Wildland fires are classified as either naturally occurring or human-caused. According to the National Park Service, however, human-caused wildfires are significantly more common, with human involvement triggering 85% to 90% of wildfires.  
-For any fire to occur, there are three elements needed—heat, fuel, and oxygen:
-**Heat.**There are many potential heat sources that can create embers and ignite wildfires. Many of these are human caused, which we will cover in more detail below.
-**Fuel.**California’s arid climate and abundant, bone dry vegetation provides copious amounts of fuel for wildfires.
+For any fire to occur, there are three elements needed—heat, fuel, and oxygen:  
+**Heat.**There are many potential heat sources that can create embers and ignite wildfires. Many of these are human caused, which we will cover in more detail below.  
+**Fuel.**California’s arid climate and abundant, bone dry vegetation provides copious amounts of fuel for wildfires.  
 **Oxygen.**California’s infamous Santa Ana winds, dubbed “Diablo winds” by some locals, produce gusts averaging 45-50 mph, with record gusts clocked at over 160 mph. These winds fan the flames and spread embers, leading to truly devastating wildfires.
 
 California’s dry climate, abundant winds, and dried vegetation provide prime conditions for a wildfire—and it only takes a single ember to ignite and destroy hundreds of thousands of acres. Here’s a closer look at the top three heat sources that are the most common cause of wildfires:
