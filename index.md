@@ -27,7 +27,7 @@ Natural biomass can help mitigate climate change, but climate risks, such as wil
 
 <br />
 <br />
-### METHODOLOGY
+## METHODOLOGY
 We analyzed the California Fire Perimeter geojson datasets to map the fire incidents and research wildfire causes in the past two decades. Then, we map the timber production dataset to investigate the most harvested and most vulnerable forests in California and relate the potential reason for wildfire to forest management. Wood residues became the focus of our research. Thus we began to investigate their possibility for reuse. We also graphed the carbon benefit dataset to show the amount of benefits wood construction and wood products can generate compared to other construction materials. In the last section, using the wood facility and California Cities dataset, we created an interactive map to demonstrate the accessibility of wood products to major cities in California. Lastly, we compare the traveling time between the cities and facilities to conclude that the accessibility we currently have is inadequate.
 
 ## BACKGROUND 
