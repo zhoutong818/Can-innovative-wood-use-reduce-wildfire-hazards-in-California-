@@ -1,15 +1,15 @@
 # Can innovative wood use reduce wildfire hazards in California?
 
-### HOME 
+## HOME 
 
-##### Introduction
+### Introduction
 
 Wildfires across western North America have increased in number and size over the past three decades, and this trend will continue in response to further warming. As a consequence, the wildland–urban interface is projected to experience substantially higher risk of climate-driven fires in the coming decades. Although many plants, animals, and ecosystem services benefit from fire, it is unknown how ecosystems will respond to increased burning and warming. Policy and management have focused primarily on specified resilience approaches aimed at resistance to wildfire and restoration of areas burned by wildfire through fire suppression and fuels management. These strategies are inadequate to address a new era of western wildfires. In contrast, policies that promote adaptive resilience to wildfire, by which people and ecosystems adjust and reorganize in response to changing fire regimes to reduce future vulnerability, are needed.
 
-##### Our intention
+### Our intention
 Natural carbon sinks can help mitigate climate change, but climate risks—like increased wildfire—threaten forests’ capacity to store carbon. California has recently set ambitious forest management goals to reduce these risks. However, management can incur carbon losses because wood residues are often burnt or left to decay. This study applies a systems approach to assess climate change mitigation potential and wildfire outcomes across forest management scenarios and several wood products. Innovative use of wood residues supports extensive wildfire hazard reduction and maximizes carbon benefits. Long-lived products that displace carbon-intensive alternatives have the greatest benefits, including wood building products. Our results suggest a low-cost pathway to reduce carbon emissions and support climate adaptation in temperate forests. 
 
-##### Research framework
+### Research framework
 What caused the wildfire in California?
 How wildfire related to forest management?
 How to better use wood residues to reduce wildfire hazard?
